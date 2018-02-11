@@ -1,0 +1,6 @@
+/vendor
+composer.phar
+/packages
+*.sublime-*
+/about
+build

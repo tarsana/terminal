@@ -1,0 +1,22 @@
+{
+    "name": "tarsana/terminal",
+    "description": "Tarsana Terminal library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amine Ben hammou",
+            "email": "webneat@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tarsana\\Terminal\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    }
+}
